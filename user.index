@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Official User</name>
+		<description>Official content created by the User (from missing official material options).</description>
+		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
+		<update version="1.0">
+			<file name="user.index" url="https://github.com/MancombSeepgoodTM/my_user_aurora_builder/blob/fa3e045b826ffcec3c7ebcce33b6fa9aa6525a92/user.index" />
+		</update>
+	</info>
+	<files>
+		<file name="companions.index" url="https://github.com/MancombSeepgoodTM/my_user_aurora_builder/blob/fa3e045b826ffcec3c7ebcce33b6fa9aa6525a92/user/companions.xml" />
+	</files>
+</index>
