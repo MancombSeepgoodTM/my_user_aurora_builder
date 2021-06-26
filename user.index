@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="companions.index" url="https://github.com/MancombSeepgoodTM/my_user_aurora_builder/blob/main/user/companions.xml" />
+		<file name="companions.xml" url="https://github.com/MancombSeepgoodTM/my_user_aurora_builder/blob/main/user/companions.xml" />
 	</files>
 </index>
